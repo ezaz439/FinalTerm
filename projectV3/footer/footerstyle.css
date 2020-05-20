@@ -1,0 +1,31 @@
+<style>
+#about:link, #about:visited {
+padding: 14px 25px;
+text-decoration: none;
+}
+
+#about:hover, #about:active {
+  background-color: #0B6623;
+}
+
+#contact:link, #contact:visited {
+padding: 14px 25px;
+text-decoration: none;
+}
+
+#contact:hover, #contact:active {
+background-color: #0B6623;
+}
+
+#faq:link, #faq:visited {
+padding: 14px 25px;
+text-decoration: none;
+}
+
+#faq:hover, #faq:active {
+background-color: #0B6623;
+}
+
+
+
+</style>

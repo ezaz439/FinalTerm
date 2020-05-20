@@ -1,0 +1,19 @@
+body{
+  margin: 0;
+  border: 0;
+}
+
+input[type='button'] {
+  padding: 14px 56px;
+  color: black;
+  background-color: white;
+  font-family: 'montserrat';
+  font-size: 15;
+  border-radius: 10px;
+  border: none;
+}
+input[type='button']:hover{
+  color: white;
+  background-color: #0B6623;
+
+}

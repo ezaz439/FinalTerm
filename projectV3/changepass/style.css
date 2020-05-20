@@ -1,0 +1,17 @@
+body{
+  margin: 0;
+  border: 0;
+}
+input[type='submit'] {
+  padding: 5px 20px;
+  background-color: white;
+  font-family: 'montserrat';
+  font-size: 15;
+  border-radius: 7px;
+  border: none;
+}
+input[type='submit']:hover{
+  color: white;
+  background-color: #0B6623;
+
+}

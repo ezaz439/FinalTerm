@@ -1,0 +1,35 @@
+body{
+  margin: 0;
+  border: 0;
+}
+
+
+input[type='submit'] {
+  padding: 7px 50px;
+  color: black;
+  background-color: white;
+  font-family: 'montserrat';
+  font-size: 15;
+  border-radius: 7px;
+  border: none;
+}
+input[type='submit']:hover{
+  color: white;
+  background-color: #0B6623;
+
+}
+
+input[type='button'] {
+  padding: 7px 50px;
+  color: black;
+  background-color: white;
+  font-family: 'montserrat';
+  font-size: 15;
+  border-radius: 7px;
+  border: none;
+}
+input[type='button']:hover{
+  color: white;
+  background-color: #0B6623;
+
+}

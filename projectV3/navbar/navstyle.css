@@ -1,0 +1,57 @@
+<style>
+#home:link, #home:visited {
+padding: 14px 25px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+}
+
+#home:hover, #home:active {
+  background-color: #0B6623;
+}
+
+#cinema:link, #cinema:visited {
+padding: 14px 25px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+}
+
+#cinema:hover, #cinema:active {
+background-color: #0B6623;
+}
+
+#bus:link, #bus:visited {
+padding: 14px 25px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+}
+
+#bus:hover, #bus:active {
+background-color: #0B6623;
+}
+
+#myinfo:link, #myinfo:visited {
+padding: 14px 25px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+}
+
+#myinfo:hover, #myinfo:active {
+background-color: #0B6623;
+}
+
+#signin:link, #signin:visited {
+padding: 14px 25px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+}
+
+#signin:hover, #signin:active {
+background-color: #0B6623;
+}
+
+</style>
